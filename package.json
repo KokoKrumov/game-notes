@@ -1,0 +1,25 @@
+{
+  "name": "wiener-games",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@craco/craco": "^6.1.2",
+    "@headlessui/react": "^1.2.0",
+    "framer-motion": "^4.1.16",
+    "next": "10.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {
+    "@heroicons/react": "^1.0.1",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.15",
+    "tailwindcss": "^2.1.2"
+  }
+}

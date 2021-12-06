@@ -1,0 +1,113 @@
+{
+  "mlbFirstColDescription": "You have a question, comment or you only want to say \"hello\", do it simply by filling out our contact form",
+  "mlbSecondColTitle": "Get in Touch",
+  "mlbSecondColDescription": "And much more, and will support you in your projects whatever your needs may be - Frontend/Backend development, artwork&animation or RNG creation. All our games are cross-platform compatible.",
+  "mlbSecondColBackground": "/images/pages/HomePage/mlbSecondColBg.png",
+  "newGames": [
+    {
+      "id": 1,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbribig.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 2,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 3,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 4,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 5,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    }
+  ],
+  "recommendedGames": [
+    {
+      "id": 1,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 2,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 3,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 4,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    }
+  ],
+  "bigWinsGames": [
+    {
+      "id": 1,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 2,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 3,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 4,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbri.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    },
+    {
+      "id": 5,
+      "title": "Pigs & Bricks",
+      "imageGame": "/images/pages/HomePage/pigsbribig.jpg",
+      "imageTitle": "/images/pages/HomePage/BigLogo.png"
+    }
+  ],
+  "trailersGames": [
+    {
+      "id": 1,
+      "title": "Lycky Aliens",
+      "imageGame": "/images/pages/HomePage/GameTrailer.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Lycky Aliens",
+      "imageGame": "/images/pages/HomePage/GameTrailer.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Lycky Aliens",
+      "imageGame": "/images/pages/HomePage/GameTrailer.jpg"
+    }
+  ]
+}
